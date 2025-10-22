@@ -1,0 +1,13 @@
+img{
+    width: 120px;
+    margin: 0;
+}
+img{
+    width: 120px
+}
+
+header{
+    background-color : rgba(66, 7, 117, 1);
+    padding: 10px;
+    text-align: center;
+}
